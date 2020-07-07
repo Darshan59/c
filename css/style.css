@@ -1,0 +1,9 @@
+hr{width : 6%;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: gray;
+    border-width: 3px;}
+img{border-radius:80%;}
+body{background-color: rgb(197, 245, 253);}
+h1{color:rgb(5, 97, 109);}
+h3{color: rgb(5, 97, 109);}
